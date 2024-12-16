@@ -1,0 +1,17 @@
+h2{
+    color: orange;
+
+}
+body{
+    background-color: #305050;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+#nomeusuário {
+    font-weight: bold;
+}
+.texto-inglês{ 
+    font-style: italic;
+  }
+
